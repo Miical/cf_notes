@@ -1,2 +1,2 @@
 # cf_notes
-Some solution of codeforces.
+Some solution for codeforces.
